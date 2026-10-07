@@ -1,0 +1,29 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+
+# Virtual environment
+
+venv/
+.venv/
+env/
+
+# Environment variables
+
+.env
+
+# Editor dan IDE
+
+.vscode/
+.idea/
+
+# Sistem operasi
+
+.DS_Store
+Thumbs.db
+
+# File sementara
+
+*.tmp
+*.log
